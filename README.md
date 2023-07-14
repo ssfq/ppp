@@ -11,3 +11,9 @@
 - [x] 文件格式都转成了UTF-8
 - [ ] 尽量把txt转成md
 - [ ] 增加小说简短评论
+
+## 星史(Star History)
+
+2022年初到底发生了什么……
+
+[![Star History Chart](https://api.star-history.com/svg?repos=loveispapapa/txt_files&type=Date)](https://star-history.com/#loveispapapa/txt_files&Date)
